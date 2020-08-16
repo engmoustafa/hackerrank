@@ -1,37 +1,29 @@
 package datastructure;
 
-import static org.junit.Assert.fail;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.JUnit4;
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
 
-@RunWith(JUnit4.class)
 public class SwapNodesSolutionTest {
 
-	@BeforeClass
+	@BeforeAll
 	public static void setUpBeforeClass() throws Exception {
 	}
 
-	@AfterClass
+	@AfterAll
 	public static void tearDownAfterClass() throws Exception {
 	}
 
-	@Before
+	@BeforeEach
 	public void setUp() throws Exception {
 	}
 
-	@After
+	@AfterEach
 	public void tearDown() throws Exception {
 	}
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
 	}
 
 }

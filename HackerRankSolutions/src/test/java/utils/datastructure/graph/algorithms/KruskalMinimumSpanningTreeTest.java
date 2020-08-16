@@ -1,16 +1,14 @@
 package utils.datastructure.graph.algorithms;
 
-import static org.junit.Assert.*;
 
 import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
 
 import utils.datastructure.graph.Edge;
 import utils.datastructure.graph.UndirectedGraph;
@@ -18,24 +16,24 @@ import utils.datastructure.graph.UndirectedGraph;
 public class KruskalMinimumSpanningTreeTest {
 
 
-	@BeforeClass
+	@BeforeAll
 	public static void setUpBeforeClass() throws Exception {
 	}
 
-	@AfterClass
+	@AfterAll
 	public static void tearDownAfterClass() throws Exception {
 	}
 
-	@Before
+	@BeforeEach
 	public void setUp() throws Exception {
 	}
 
-	@After
+	@BeforeEach
 	public void tearDown() throws Exception {
 		
 	}
 
-	@Test
+	@BeforeEach
 	public void testSimpleNodes() {
 		UndirectedGraph theGraph = new UndirectedGraph(5);
 
@@ -54,9 +52,10 @@ public class KruskalMinimumSpanningTreeTest {
 		IntSummaryStatistics totalCost = mst.stream().collect(Collectors.summarizingInt(p-> {return p.getWeight();}));
 		System.out.println("Minimum Cost="+totalCost.getSum());
 		assertEquals(totalCost.getSum(), 9);
+
 	}
 	
-	@Test
+	@BeforeEach
 	public void testSimpleNodes2() {
 		UndirectedGraph theGraph = new UndirectedGraph(5);
 
