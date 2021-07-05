@@ -1,53 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5793788f-c00f-43fc-a377-ad43ac67354e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/javalang/algorithms/QueensAttackII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRankSolutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRankSolutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/TempTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/TempTesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/CastleOnTheGridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/CastleOnTheGridTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/SwapNodesSolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/SwapNodesSolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/CastleOnTheGrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/CastleOnTheGrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection$SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection$SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection$SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection$SinglyLinkedListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/CycleDetection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/ELeftRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/ELeftRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/LowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/LowestCommonAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes$MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes$MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes$MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/QueueUsingTwoStackes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/SparseArrays$StringKeeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/SparseArrays$StringKeeper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/SparseArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/SparseArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/SwapNodesSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/SwapNodesSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/amazon/ConnectedCitiesSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/amazon/ConnectedCitiesSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/amazon/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/amazon/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/amazon/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/amazon/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/amazon/PairSongsSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/amazon/PairSongsSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements$SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements$SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements$SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements$SinglyLinkedListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datastructure/easy/PrintLinkedListElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mathAndLogic/FindPrimesWithinRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mathAndLogic/FindPrimesWithinRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mathAndLogic/GreatestCommonDividor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mathAndLogic/GreatestCommonDividor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/datastructure/binarytree/BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/datastructure/binarytree/BinaryNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/datastructure/binarytree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/datastructure/binarytree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/UndirectedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/UndirectedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/moustafa/hackerRankSolutions/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/moustafa/hackerRankSolutions/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/moustafa/hackerRankSolutions/TempTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/moustafa/hackerRankSolutions/TempTesting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/datastructure/CastleOnTheGridTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/datastructure/CastleOnTheGridTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/datastructure/SwapNodesSolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/datastructure/SwapNodesSolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/AppendAndDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/algorithms/AppendAndDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/algorithms/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/CastleOnTheGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/CastleOnTheGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/CycleDetection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/CycleDetection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/ELeftRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/ELeftRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/QueueUsingTwoStackes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/QueueUsingTwoStackes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/SparseArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/SparseArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/SwapNodesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/SwapNodesSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/amazon/ConnectedCitiesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/amazon/ConnectedCitiesSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/amazon/PairSongsSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/amazon/PairSongsSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/easy/PrintLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/datastructure/easy/PrintLinkedListElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mathAndLogic/FindPrimesWithinRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/mathAndLogic/FindPrimesWithinRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mathAndLogic/GreatestCommonDividor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/mathAndLogic/GreatestCommonDividor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/datastructure/binarytree/BinaryNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/utils/datastructure/binarytree/BinaryNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/datastructure/binarytree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/utils/datastructure/binarytree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/datastructure/graph/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/utils/datastructure/graph/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/datastructure/graph/UndirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/utils/datastructure/graph/UndirectedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalang/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javalang/com/moustafa/hackerRankSolutions/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/moustafa/hackerRankSolutions/TempTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javalang/com/moustafa/hackerRankSolutions/TempTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/CastleOnTheGridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javalang/datastructure/CastleOnTheGridTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/SwapNodesSolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javalang/datastructure/SwapNodesSolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/javalang/utils/datastructure/graph/algorithms/KruskalMinimumSpanningTreeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +45,23 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1g9zWdRixPDTRsMnbfNbDT29q12" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,16 +75,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210427_0001" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37586206" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="javalang.datastructure" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="datastructure" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MinMaxRiddleSolutionTest.shouldRunSimpleCase">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -93,23 +107,84 @@
       <module />
       <method />
     </configuration>
+    <configuration name="AppendAndDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.AppendAndDelete" />
+      <module name="HackerRankSolutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.TimeConversion" />
+      <module name="HackerRankSolutions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CastleOnTheGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargestRectangleSolutionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HackerRankSolutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="javalang.datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="datastructure" />
-      <option name="MAIN_CLASS_NAME" value="datastructure.CastleOnTheGridTest" />
+      <option name="PACKAGE_NAME" value="javalang.datastructure" />
+      <option name="MAIN_CLASS_NAME" value="javalang.datastructure.LargestRectangleSolutionTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleSolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java.datastructure" />
+      <option name="MAIN_CLASS_NAME" value="java.datastructure.LargestRectangleSolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMaxRiddleSolutionTest.shouldRunSimpleCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalang.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javalang.datastructure" />
+      <option name="MAIN_CLASS_NAME" value="javalang.datastructure.MinMaxRiddleSolutionTest" />
+      <option name="METHOD_NAME" value="shouldRunSimpleCase" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,10 +217,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CastleOnTheGridTest" />
+        <item itemvalue="JUnit.MinMaxRiddleSolutionTest.shouldRunSimpleCase" />
+        <item itemvalue="JUnit.LargestRectangleSolutionTest (1)" />
+        <item itemvalue="JUnit.LargestRectangleSolutionTest" />
+        <item itemvalue="Application.TimeConversion" />
+        <item itemvalue="Application.AppendAndDelete" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,33 +237,91 @@
       <option name="presentableId" value="Default" />
       <updated>1597540243691</updated>
       <workItem from="1597540247760" duration="127000" />
-      <workItem from="1597541630687" duration="2166000" />
+      <workItem from="1597541630687" duration="2714000" />
+      <workItem from="1597544538603" duration="6992000" />
+      <workItem from="1598326039531" duration="1600000" />
+      <workItem from="1598500982625" duration="504000" />
+      <workItem from="1618275626826" duration="12454000" />
+      <workItem from="1619398730015" duration="642000" />
+      <workItem from="1619475164667" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1943" y="-265" key="#Project_Structure" timestamp="1597541901031">
-      <screen x="1680" y="-649" width="3360" height="1867" />
+    <state x="629" y="92" key="#Project_Structure" timestamp="1618277159946">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="1943" y="-265" key="#Project_Structure/1680.-649.3360.1867/0.23.1680.986@1680.-649.3360.1867" timestamp="1597541901031" />
-    <state width="1516" height="439" key="GridCell.Tab.0.bottom" timestamp="1597543911528">
-      <screen x="1680" y="-649" width="3360" height="1867" />
+    <state x="629" y="92" key="#Project_Structure/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277159946" />
+    <state x="805" y="1358" key="#com.intellij.ide.util.MemberChooser" timestamp="1618283413382">
+      <screen x="149" y="1103" width="1680" height="976" />
     </state>
-    <state width="1516" height="439" key="GridCell.Tab.0.bottom/1680.-649.3360.1867/0.23.1680.986@1680.-649.3360.1867" timestamp="1597543911528" />
-    <state width="1516" height="439" key="GridCell.Tab.0.center" timestamp="1597543911526">
-      <screen x="1680" y="-649" width="3360" height="1867" />
+    <state x="805" y="1358" key="#com.intellij.ide.util.MemberChooser/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618283413382" />
+    <state x="916" y="387" width="450" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618275669039">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1516" height="439" key="GridCell.Tab.0.center/1680.-649.3360.1867/0.23.1680.986@1680.-649.3360.1867" timestamp="1597543911526" />
-    <state width="1516" height="439" key="GridCell.Tab.0.left" timestamp="1597543911526">
-      <screen x="1680" y="-649" width="3360" height="1867" />
+    <state x="916" y="387" width="450" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618275669039" />
+    <state x="553" y="82" key="CommitChangelistDialog2" timestamp="1618277472951">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1516" height="439" key="GridCell.Tab.0.left/1680.-649.3360.1867/0.23.1680.986@1680.-649.3360.1867" timestamp="1597543911526" />
-    <state width="1516" height="439" key="GridCell.Tab.0.right" timestamp="1597543911527">
-      <screen x="1680" y="-649" width="3360" height="1867" />
+    <state x="553" y="82" key="CommitChangelistDialog2/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277472951" />
+    <state width="1126" height="263" key="GridCell.Tab.0.bottom" timestamp="1619398732067">
+      <screen x="-978" y="-1867" width="3360" height="1816" />
     </state>
-    <state width="1516" height="439" key="GridCell.Tab.0.right/1680.-649.3360.1867/0.23.1680.986@1680.-649.3360.1867" timestamp="1597543911527" />
+    <state width="1126" height="263" key="GridCell.Tab.0.bottom/-978.-1867.3360.1816/0.23.1680.1027@-978.-1867.3360.1816" timestamp="1619398732067" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/149.1103.1680.1027/0.23.1920.1006@149.1103.1680.1027" timestamp="1618457099014" />
+    <state width="1516" height="263" key="GridCell.Tab.0.bottom/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277242484" />
+    <state width="1638" height="263" key="GridCell.Tab.0.bottom/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618294440952" />
+    <state width="1126" height="263" key="GridCell.Tab.0.center" timestamp="1619398732066">
+      <screen x="-978" y="-1867" width="3360" height="1816" />
+    </state>
+    <state width="1126" height="263" key="GridCell.Tab.0.center/-978.-1867.3360.1816/0.23.1680.1027@-978.-1867.3360.1816" timestamp="1619398732066" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center/149.1103.1680.1027/0.23.1920.1006@149.1103.1680.1027" timestamp="1618457099013" />
+    <state width="1516" height="263" key="GridCell.Tab.0.center/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277242483" />
+    <state width="1638" height="263" key="GridCell.Tab.0.center/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618294440949" />
+    <state width="1126" height="263" key="GridCell.Tab.0.left" timestamp="1619398732065">
+      <screen x="-978" y="-1867" width="3360" height="1816" />
+    </state>
+    <state width="1126" height="263" key="GridCell.Tab.0.left/-978.-1867.3360.1816/0.23.1680.1027@-978.-1867.3360.1816" timestamp="1619398732065" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left/149.1103.1680.1027/0.23.1920.1006@149.1103.1680.1027" timestamp="1618457099012" />
+    <state width="1516" height="263" key="GridCell.Tab.0.left/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277242483" />
+    <state width="1638" height="263" key="GridCell.Tab.0.left/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618294440946" />
+    <state width="1126" height="263" key="GridCell.Tab.0.right" timestamp="1619398732066">
+      <screen x="-978" y="-1867" width="3360" height="1816" />
+    </state>
+    <state width="1126" height="263" key="GridCell.Tab.0.right/-978.-1867.3360.1816/0.23.1680.1027@-978.-1867.3360.1816" timestamp="1619398732066" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right/149.1103.1680.1027/0.23.1920.1006@149.1103.1680.1027" timestamp="1618457099013" />
+    <state width="1516" height="263" key="GridCell.Tab.0.right/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618277242484" />
+    <state width="1638" height="263" key="GridCell.Tab.0.right/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618294440951" />
+    <state x="650" y="150" key="SettingsEditor" timestamp="1618276649955">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="650" y="150" key="SettingsEditor/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618276649955" />
+    <state x="937" y="296" key="chooseDestDirectoryDialog" timestamp="1618275653709">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="937" y="296" key="chooseDestDirectoryDialog/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618275653709" />
+    <state x="771" y="1462" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1618283449989">
+      <screen x="149" y="1103" width="1680" height="976" />
+    </state>
+    <state x="771" y="1462" key="com.intellij.testIntegration.createTest.CreateTestDialog/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618283449989" />
+    <state x="854" y="1302" width="670" height="625" key="search.everywhere.popup" timestamp="1618283407068">
+      <screen x="149" y="1103" width="1680" height="976" />
+    </state>
+    <state x="806" y="238" width="670" height="676" key="search.everywhere.popup/149.1103.1680.976/0.23.1920.1057@0.23.1920.1057" timestamp="1618276562172" />
+    <state x="854" y="1302" width="670" height="625" key="search.everywhere.popup/149.1103.1680.976/0.23.1920.1057@149.1103.1680.976" timestamp="1618283407068" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/javalang/algorithms/AppendAndDelete.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
